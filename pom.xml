@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EurekaServer</name>
 	<description>Demo project for Spring Boot</description>
+	<repositoryId>nexus-releases</repositoryId> 
 
 	<properties>
 		<java.version>1.8</java.version>
